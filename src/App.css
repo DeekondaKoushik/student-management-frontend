@@ -24,7 +24,7 @@ h2 {
   background: #f8f9fa;
 }
 
-..student-form input,
+.student-form input,
 .student-form select {
   padding: 12px;
   border: 1px solid #ccc;
