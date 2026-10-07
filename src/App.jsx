@@ -15,7 +15,7 @@ function App() {
     year: "",
   });
 
-  const API_URL = "http://localhost:8080/students";
+const API_URL = "https://student-management-backend-s0nh.onrender.com/students";
 
   // Get all students
   const getStudents = async () => {
